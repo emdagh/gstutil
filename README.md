@@ -1,0 +1,2 @@
+# gstutil
+GStreamer utility library
